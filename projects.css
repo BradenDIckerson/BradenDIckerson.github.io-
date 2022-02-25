@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Audiowide", cursive;
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  background-color: aqua;
+  position: fixed;
+  left: 785px;
+  text-align: center;
+}
+
+h3 {
+  background-color: azure;
+  position: relative;
+  top: 125px;
+  text-align: center;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  background-color: rgb(54, 224, 236);
+  position: relative;
+  left: 800px;
+  font-size: larger;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+iframe {
+  position: fixed;
+  width: 600px;
+  top: 250px;
+  left: 525px;
+}
+
+a {
+  position: relative;
+  left: 655px;
+  top: 30px;
+}

@@ -1,0 +1,49 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Audiowide", cursive;
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  background-color: aqua;
+  position: fixed;
+  left: 765px;
+  text-align: center;
+}
+
+h2 {
+  background-color: azure;
+  position: relative;
+  top: 150px;
+  text-align: center;
+}
+
+ul {
+  background-color: azure;
+  position: relative;
+  top: 150px;
+  text-align: center;
+}
+
+li {
+  background-color: azure;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  background-color: rgb(54, 224, 236);
+  position: relative;
+  left: 780px;
+  top: 70px;
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  position: fixed;
+  width: 700px;
+  top: 350px;
+  left: 450px;
+}

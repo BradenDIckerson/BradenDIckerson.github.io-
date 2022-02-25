@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Audiowide", cursive;
+  background-color: antiquewhite;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  background-color: aqua;
+  position: fixed;
+  left: 650px;
+  text-align: center;
+}
+
+h2 {
+  background-color: azure;
+  position: relative;
+  top: 150px;
+  text-align: center;
+}
+
+button {
+  color: rgb(0, 0, 0);
+  background-color: rgb(54, 224, 236);
+  position: relative;
+  left: 650px;
+  font-size: medium;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+img {
+  position: fixed;
+  width: 300px;
+  top: 250px;
+  left: 625px;
+}
